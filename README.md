@@ -2,7 +2,7 @@ Convention Explorer
 
 Overview
 
-Convention Explorer is a mobile application developed as part of my final year individual project. This app serves as a comprehensive hub for convention enthusiasts, offering a seamless blend of convenience and exploration. Users can search for conventions worldwide, access essential details, and plan visits efficiently using interactive maps and personalized features. The app provides an extensive database of conventions, making it a one-stop solution for finding events based on individual interests.
+Convention Explorer is a mobile application developed as part of my project. This app serves as a comprehensive hub for convention enthusiasts, offering a seamless blend of convenience and exploration. Users can search for conventions worldwide, access essential details, and plan visits efficiently using interactive maps and personalized features. The app provides an extensive database of conventions, making it a one-stop solution for finding events based on individual interests.
 
 Features
 
